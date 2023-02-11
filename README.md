@@ -1,5 +1,5 @@
 
-# Django Car Project
+# Car App
 A comprehensive Django project that includes two models, Car and CarPlan, and serializers for each model with field-level validators. The CarPlan model represents a plan for a car, including information about the car's features and price, while the Car model represents a specific car instance with a foreign key referencing the CarPlan model.
 
 ## Requirements
@@ -8,7 +8,7 @@ A comprehensive Django project that includes two models, Car and CarPlan, and se
 * Django Rest Framework
 ## Installation
 1. Clone the repository <br>
-``` git clone https://github.com/<username>/django-car-project.git ``` <br><br>
+``` git clone https://github.com/UsmanRepos/django-rest-frame-work-cars-app.git ``` <br><br>
 2. Install the required packages <br>
 ``` pip install -r requirements.txt ``` <br><br>
 3. Run migrations <br>
